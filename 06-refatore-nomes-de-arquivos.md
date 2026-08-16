@@ -51,11 +51,14 @@ git mv [arquivo-original] [arquivo-renomeado]
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- Renomeia um arquivo no repositório, mantendo seu reconhecimento. -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- Obs.: O Git utiliza o comando do próprio windows para renomear e depois adiciona esse novo arquivo ao Git. Comandos:
+mv [arquivo-original] [arquivo-renomeado] // comando do Windows.
+git add [arquivo-renomeado] // comando do Git.
+git rm [arquivo-original]  // comando do Git -->
 
 ---
 
@@ -63,7 +66,7 @@ git mv [arquivo-original] [arquivo-renomeado]
 
 - [x] 1. `git rm [arquivo]`
 - [x] 2. `git rm --cached [arquivo]`
-- [ ] 3. `git mv [arquivo-original] [arquivo-renomeado]`
+- [x] 3. `git mv [arquivo-original] [arquivo-renomeado]`
 
 ---
 
