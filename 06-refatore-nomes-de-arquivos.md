@@ -19,11 +19,11 @@ git rm [arquivo]
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- Remove um arquivo do Git e o exclui do computador. -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- Obs.: Revome definitivamente o arquivo do computador. -->
 
 ---
 
@@ -61,7 +61,7 @@ git mv [arquivo-original] [arquivo-renomeado]
 
 ## Checklist deste arquivo
 
-- [ ] 1. `git rm [arquivo]`
+- [x] 1. `git rm [arquivo]`
 - [ ] 2. `git rm --cached [arquivo]`
 - [ ] 3. `git mv [arquivo-original] [arquivo-renomeado]`
 
