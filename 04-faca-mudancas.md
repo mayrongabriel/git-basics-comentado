@@ -19,11 +19,11 @@ git status
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- Mostra o estado das modificações feitas. -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- Para saber os estados de todos os arquivos naquele momento. -->
 
 ---
 
@@ -109,7 +109,7 @@ git commit -m "[mensagem descritiva]"
 
 ## Checklist deste arquivo
 
-- [ ] 1. `git status`
+- [x] 1. `git status`
 - [ ] 2. `git diff`
 - [ ] 3. `git add [arquivo]`
 - [ ] 4. `git diff --staged`
