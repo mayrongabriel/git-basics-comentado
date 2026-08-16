@@ -67,11 +67,11 @@ git diff --staged
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- Mostra as modificações feitas em arquivos movidos para o staged.. -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- Para verificar as mudanças que foram feitas e estão em staged. -->
 
 ---
 
@@ -112,7 +112,7 @@ git commit -m "[mensagem descritiva]"
 - [x] 1. `git status`
 - [x] 2. `git diff`
 - [x] 3. `git add [arquivo]`
-- [ ] 4. `git diff --staged`
+- [x] 4. `git diff --staged`
 - [ ] 5. `git reset [arquivo]`
 - [ ] 6. `git commit -m "[mensagem descritiva]"`
 
