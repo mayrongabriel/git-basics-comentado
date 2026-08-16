@@ -51,11 +51,11 @@ git switch -c [nome-do-branch]
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- Troca para um novo branch que está sendo criado. -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- Quando a intenção for criar e estar dentro do novo branch. -->
 
 ---
 
@@ -95,7 +95,7 @@ git branch -d [nome-do-branch]
 
 - [x] 1. `git branch`
 - [x] 2. `git branch [nome-do-branch]`
-- [ ] 3. `git switch -c [nome-do-branch]`
+- [x] 3. `git switch -c [nome-do-branch]`
 - [ ] 4. `git merge [nome-do-branch]`
 - [ ] 5. `git branch -d [nome-do-branch]`
 
