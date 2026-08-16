@@ -35,11 +35,11 @@ git diff
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- Mostra as modificações feitas em arquivos unstaged. -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- Para verificar as mudanças que estão sendo feitas antes do staged. -->
 
 ---
 
@@ -110,7 +110,7 @@ git commit -m "[mensagem descritiva]"
 ## Checklist deste arquivo
 
 - [x] 1. `git status`
-- [ ] 2. `git diff`
+- [x] 2. `git diff`
 - [ ] 3. `git add [arquivo]`
 - [ ] 4. `git diff --staged`
 - [ ] 5. `git reset [arquivo]`
