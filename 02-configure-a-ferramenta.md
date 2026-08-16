@@ -35,18 +35,18 @@ git config --global user.email "[endereco-de-email]"
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- Configura um email padrão que será usado no Git do computador. -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- Quando houver a necessidade de deixar um email como padrão. -->
 
 ---
 
 ## Checklist deste arquivo
 
 - [x] 1. `git config --global user.name "[nome]"`
-- [ ] 2. `git config --global user.email "[endereco-de-email]"`
+- [x] 2. `git config --global user.email "[endereco-de-email]"`
 
 ---
 
