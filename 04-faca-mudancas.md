@@ -99,11 +99,11 @@ git commit -m "[mensagem descritiva]"
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- Realiza o commit de todas as modificações feitas que foram movidas para a área de staging. -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- Quando tudo estiver ok e o programador quiser fazer o commit. -->
 
 ---
 
@@ -114,7 +114,7 @@ git commit -m "[mensagem descritiva]"
 - [x] 3. `git add [arquivo]`
 - [x] 4. `git diff --staged`
 - [x] 5. `git reset [arquivo]`
-- [ ] 6. `git commit -m "[mensagem descritiva]"`
+- [x] 6. `git commit -m "[mensagem descritiva]"`
 
 ---
 
