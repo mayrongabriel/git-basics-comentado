@@ -19,11 +19,12 @@ git init [nome-do-projeto]
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- Cria um novo repositório local. -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- Quando não houver um repositório local criado
+ou quiser criar um novo repositório local. -->
 
 ---
 
@@ -45,7 +46,7 @@ git clone [url]
 
 ## Checklist deste arquivo
 
-- [ ] 1. `git init [nome-do-projeto]`
+- [x] 1. `git init [nome-do-projeto]`
 - [ ] 2. `git clone [url]`
 
 ---
