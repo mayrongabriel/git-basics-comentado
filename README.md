@@ -206,7 +206,7 @@ git push
 | 02 | [02-configure-a-ferramenta.md](comandos/02-configure-a-ferramenta.md) | Configure a ferramenta | 2 | [ ] |
 | 03 | [03-crie-repositorios.md](comandos/03-crie-repositorios.md) | Crie repositórios | 2 | [ ] |
 | 04 | [04-faca-mudancas.md](comandos/04-faca-mudancas.md) | Faça mudanças | 6 | [ ] |
-| 05 | [05-mudancas-em-grupo.md](comandos/05-mudancas-em-grupo.md) | Mudanças em grupo | 5 | [ ] |
+| 05 | [05-mudancas-em-grupo.md](comandos/05-mudancas-em-grupo.md) | Mudanças em grupo | 5 | [x] |
 | 06 | [06-refatore-nomes-de-arquivos.md](comandos/06-refatore-nomes-de-arquivos.md) | Refatore nomes de arquivos | 3 | [ ] |
 | 07 | [07-suprima-o-monitoramento.md](comandos/07-suprima-o-monitoramento.md) | Suprima o monitoramento | 2 | [ ] |
 | 08 | [08-salve-fragmentos.md](comandos/08-salve-fragmentos.md) | Salve fragmentos | 4 | [ ] |
