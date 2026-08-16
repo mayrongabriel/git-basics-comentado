@@ -83,11 +83,11 @@ git reset [arquivo]
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- Tira um arquivo da área de staging sem reverter as modificações. -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- Quando for necessário retirar algum arquivo específico da area de staging. -->
 
 ---
 
@@ -113,7 +113,7 @@ git commit -m "[mensagem descritiva]"
 - [x] 2. `git diff`
 - [x] 3. `git add [arquivo]`
 - [x] 4. `git diff --staged`
-- [ ] 5. `git reset [arquivo]`
+- [x] 5. `git reset [arquivo]`
 - [ ] 6. `git commit -m "[mensagem descritiva]"`
 
 ---
