@@ -19,11 +19,11 @@ git config --global user.name "[nome]"
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- Configura um nome de usuário padrão que será usado no Git do computador. -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- Quando houver a necessidade de deixar um nome de usuário como padrão. -->
 
 ---
 
@@ -45,7 +45,7 @@ git config --global user.email "[endereco-de-email]"
 
 ## Checklist deste arquivo
 
-- [ ] 1. `git config --global user.name "[nome]"`
+- [x] 1. `git config --global user.name "[nome]"`
 - [ ] 2. `git config --global user.email "[endereco-de-email]"`
 
 ---
