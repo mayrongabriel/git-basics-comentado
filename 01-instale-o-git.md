@@ -31,11 +31,11 @@
 
 **Para que serve, e quando eu usaria:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- Serve para baixar o instalador do GitHub para o Mac. -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- Quando for necessário instalar o GitHub em computador Mac. -->
 
 ---
 
@@ -56,7 +56,7 @@
 ## Checklist deste arquivo
 
 - [x] 1. GitHub para Windows
-- [ ] 2. GitHub para Mac
+- [x] 2. GitHub para Mac
 - [ ] 3. Git para todas as plataformas
 
 ---
