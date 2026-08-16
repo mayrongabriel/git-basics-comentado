@@ -37,18 +37,18 @@ git ls-files --others --ignored --exclude-standard
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- Lista uma sequencia de arquivos que podem ser filtrados. -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- Quando quiser listar arquivos, mas esconder alguns. -->
 
 ---
 
 ## Checklist deste arquivo
 
 - [x] 1. Arquivo `.gitignore`
-- [ ] 2. `git ls-files --others --ignored --exclude-standard`
+- [x] 2. `git ls-files --others --ignored --exclude-standard`
 
 ---
 
