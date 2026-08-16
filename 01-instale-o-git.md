@@ -45,11 +45,11 @@
 
 **Para que serve, e quando eu usaria:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- Serve para baixar o instalador do GitHub para todas as plataformas disponíveis. -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- Quando for necessário instalar o GitHub em computador compatível. -->
 
 ---
 
@@ -57,7 +57,7 @@
 
 - [x] 1. GitHub para Windows
 - [x] 2. GitHub para Mac
-- [ ] 3. Git para todas as plataformas
+- [x] 3. Git para todas as plataformas
 
 ---
 
