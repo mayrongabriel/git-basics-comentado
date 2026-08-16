@@ -36,18 +36,18 @@ git clone [url]
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- Clona um repositório hospedado em algum url. -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- Quando quiser trabalhar em um repositório que não está no computador. -->
 
 ---
 
 ## Checklist deste arquivo
 
 - [x] 1. `git init [nome-do-projeto]`
-- [ ] 2. `git clone [url]`
+- [x] 2. `git clone [url]`
 
 ---
 
