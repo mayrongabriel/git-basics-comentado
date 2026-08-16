@@ -35,11 +35,11 @@ git branch [nome-do-branch]
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- Insere um novo branch no repositório local. -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- Para fazer modificações sem alterar o branch principal. -->
 
 ---
 
@@ -94,7 +94,7 @@ git branch -d [nome-do-branch]
 ## Checklist deste arquivo
 
 - [x] 1. `git branch`
-- [ ] 2. `git branch [nome-do-branch]`
+- [x] 2. `git branch [nome-do-branch]`
 - [ ] 3. `git switch -c [nome-do-branch]`
 - [ ] 4. `git merge [nome-do-branch]`
 - [ ] 5. `git branch -d [nome-do-branch]`
