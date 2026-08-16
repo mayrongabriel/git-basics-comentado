@@ -19,11 +19,11 @@ git branch
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- Mostra o branch atual. -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- Para se localizar entre os branchs.. -->
 
 ---
 
@@ -93,7 +93,7 @@ git branch -d [nome-do-branch]
 
 ## Checklist deste arquivo
 
-- [ ] 1. `git branch`
+- [x] 1. `git branch`
 - [ ] 2. `git branch [nome-do-branch]`
 - [ ] 3. `git switch -c [nome-do-branch]`
 - [ ] 4. `git merge [nome-do-branch]`
