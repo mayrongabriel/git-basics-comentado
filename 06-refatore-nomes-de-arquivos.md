@@ -35,11 +35,11 @@ git rm --cached [arquivo]
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- Remove um arquivo apenas do Git. -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- Obs.: O arquivo ainda fica salvo no computador. -->
 
 ---
 
@@ -62,7 +62,7 @@ git mv [arquivo-original] [arquivo-renomeado]
 ## Checklist deste arquivo
 
 - [x] 1. `git rm [arquivo]`
-- [ ] 2. `git rm --cached [arquivo]`
+- [x] 2. `git rm --cached [arquivo]`
 - [ ] 3. `git mv [arquivo-original] [arquivo-renomeado]`
 
 ---
