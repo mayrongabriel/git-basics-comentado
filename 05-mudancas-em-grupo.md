@@ -67,11 +67,11 @@ git merge [nome-do-branch]
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- Mescla o branch mencionado com o branch atual. -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- Quando for preciso unir dois branchs. -->
 
 ---
 
@@ -83,11 +83,11 @@ git branch -d [nome-do-branch]
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- Exclui o branch mencionado. -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- Para liberar espaços de branchs que já foram feito o merge. -->
 
 ---
 
@@ -96,8 +96,8 @@ git branch -d [nome-do-branch]
 - [x] 1. `git branch`
 - [x] 2. `git branch [nome-do-branch]`
 - [x] 3. `git switch -c [nome-do-branch]`
-- [ ] 4. `git merge [nome-do-branch]`
-- [ ] 5. `git branch -d [nome-do-branch]`
+- [x] 4. `git merge [nome-do-branch]`
+- [x] 5. `git branch -d [nome-do-branch]`
 
 ---
 
