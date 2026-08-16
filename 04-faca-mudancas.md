@@ -51,11 +51,11 @@ git add [arquivo]
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- Adiciona um arquivo moficado para o staged. -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- Quando concluir todas as modificações feitas. -->
 
 ---
 
@@ -111,7 +111,7 @@ git commit -m "[mensagem descritiva]"
 
 - [x] 1. `git status`
 - [x] 2. `git diff`
-- [ ] 3. `git add [arquivo]`
+- [x] 3. `git add [arquivo]`
 - [ ] 4. `git diff --staged`
 - [ ] 5. `git reset [arquivo]`
 - [ ] 6. `git commit -m "[mensagem descritiva]"`
