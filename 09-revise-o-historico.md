@@ -19,11 +19,11 @@ git log
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- Mostra o histórico de commit daquele branch. -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- Para verificar os commits feitos. -->
 
 ---
 
@@ -77,7 +77,7 @@ git show [commit]
 
 ## Checklist deste arquivo
 
-- [ ] 1. `git log`
+- [x] 1. `git log`
 - [ ] 2. `git log --follow [arquivo]`
 - [ ] 3. `git diff [primeiro-branch]...[segundo-branch]`
 - [ ] 4. `git show [commit]`
