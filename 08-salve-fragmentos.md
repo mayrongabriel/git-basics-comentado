@@ -35,11 +35,11 @@ git stash pop
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- Aplica as alterações que foram salvas no git stash. -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- Quando retornar o trabalho nas alterações que foram salvas no stash. -->
 
 ---
 
@@ -78,7 +78,7 @@ git stash drop
 ## Checklist deste arquivo
 
 - [x] 1. `git stash`
-- [ ] 2. `git stash pop`
+- [x] 2. `git stash pop`
 - [ ] 3. `git stash list`
 - [ ] 4. `git stash drop`
 
