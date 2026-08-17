@@ -19,11 +19,11 @@ git stash
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- Guarda todas as alterações feitas, sem commitar. -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- Quando for preciso sair da branch antes de finalizar alguma alteração. -->
 
 ---
 
@@ -77,7 +77,7 @@ git stash drop
 
 ## Checklist deste arquivo
 
-- [ ] 1. `git stash`
+- [x] 1. `git stash`
 - [ ] 2. `git stash pop`
 - [ ] 3. `git stash list`
 - [ ] 4. `git stash drop`
