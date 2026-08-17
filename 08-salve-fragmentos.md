@@ -51,11 +51,11 @@ git stash list
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- Lista todos os stash feitos. -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- Para ter melhor melhor controle e visualização da quantidade de stash feitos. -->
 
 ---
 
@@ -79,7 +79,7 @@ git stash drop
 
 - [x] 1. `git stash`
 - [x] 2. `git stash pop`
-- [ ] 3. `git stash list`
+- [x] 3. `git stash list`
 - [ ] 4. `git stash drop`
 
 ---
