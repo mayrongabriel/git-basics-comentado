@@ -51,11 +51,12 @@ git diff [primeiro-branch]...[segundo-branch]
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- Mostra as diferenças que aconteceram na segunda branch, a partir da primeira. -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- Quando for preciso comparar uma branch com outra.
+Obs.: O resultado será as diferenças na segunda branch do comando, apenas. -->
 
 ---
 
@@ -79,7 +80,7 @@ git show [commit]
 
 - [x] 1. `git log`
 - [x] 2. `git log --follow [arquivo]`
-- [ ] 3. `git diff [primeiro-branch]...[segundo-branch]`
+- [x] 3. `git diff [primeiro-branch]...[segundo-branch]`
 - [ ] 4. `git show [commit]`
 
 ---
