@@ -68,11 +68,11 @@ git show [commit]
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- Mostra as modificações feitas em um commit específico. -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- Quando for preciso analisar mudanças em apenas um commit. -->
 
 ---
 
@@ -81,7 +81,7 @@ git show [commit]
 - [x] 1. `git log`
 - [x] 2. `git log --follow [arquivo]`
 - [x] 3. `git diff [primeiro-branch]...[segundo-branch]`
-- [ ] 4. `git show [commit]`
+- [x] 4. `git show [commit]`
 
 ---
 
