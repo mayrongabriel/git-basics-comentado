@@ -67,11 +67,11 @@ git stash drop
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- Apaga um stash específico, sem recuperação. -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- Quando não for mais preciso trabalhar com as modificações salvas em um determinado stash. -->
 
 ---
 
@@ -80,7 +80,7 @@ git stash drop
 - [x] 1. `git stash`
 - [x] 2. `git stash pop`
 - [x] 3. `git stash list`
-- [ ] 4. `git stash drop`
+- [x] 4. `git stash drop`
 
 ---
 
