@@ -35,11 +35,11 @@ git log --follow [arquivo]
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- Mostra o histórico de commit de um arquivo isolado da branch. -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- Para verificar os commits feitos em um arquivo apenas. -->
 
 ---
 
@@ -78,7 +78,7 @@ git show [commit]
 ## Checklist deste arquivo
 
 - [x] 1. `git log`
-- [ ] 2. `git log --follow [arquivo]`
+- [x] 2. `git log --follow [arquivo]`
 - [ ] 3. `git diff [primeiro-branch]...[segundo-branch]`
 - [ ] 4. `git show [commit]`
 
