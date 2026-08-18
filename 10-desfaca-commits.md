@@ -35,18 +35,18 @@ git reset --hard [commit]
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- Move o HEAD do branch atual para o commit selecionado no comando, descartando todas as alterações. -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- Para voltar em um commit sem trazer as modificações feitas. -->
 
 ---
 
 ## Checklist deste arquivo
 
 - [x] 1. `git reset [commit]`
-- [ ] 2. `git reset --hard [commit]`
+- [x] 2. `git reset --hard [commit]`
 
 ---
 
