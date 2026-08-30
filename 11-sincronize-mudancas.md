@@ -51,11 +51,11 @@ git push [alias] [branch]
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- Envia para um diretório remoto todos os commits no diretório local que ainda não foram enviados. -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- Obs.: Modificações que não foram commitadas não serão enviadas. -->
 
 ---
 
@@ -79,7 +79,7 @@ git pull
 
 - [x] 1. `git fetch [nome-remoto]`
 - [x] 2. `git merge [nome-remoto]/[branch]`
-- [ ] 3. `git push [alias] [branch]`
+- [x] 3. `git push [alias] [branch]`
 - [ ] 4. `git pull`
 
 ---
