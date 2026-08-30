@@ -67,11 +67,11 @@ git pull
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- Traz todas as modificações feitas no diretório remoto para o diretório local. -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- É uma boa prática atualizar o diretório local antes de começar a fazer modificações no projeto. -->
 
 ---
 
@@ -80,7 +80,7 @@ git pull
 - [x] 1. `git fetch [nome-remoto]`
 - [x] 2. `git merge [nome-remoto]/[branch]`
 - [x] 3. `git push [alias] [branch]`
-- [ ] 4. `git pull`
+- [x] 4. `git pull`
 
 ---
 
