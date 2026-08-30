@@ -19,11 +19,11 @@ git fetch [nome-remoto]
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- Baixa todos os objetos remotos do git. -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- Obs.: Não faz o merge automaticamente. -->
 
 ---
 
@@ -77,7 +77,7 @@ git pull
 
 ## Checklist deste arquivo
 
-- [ ] 1. `git fetch [nome-remoto]`
+- [x] 1. `git fetch [nome-remoto]`
 - [ ] 2. `git merge [nome-remoto]/[branch]`
 - [ ] 3. `git push [alias] [branch]`
 - [ ] 4. `git pull`
